@@ -52,3 +52,9 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
   - [_Number_](tipos-de-dados-primitivos/number.md)
   - [_String_](tipos-de-dados-primitivos/string.md)
   - [_Undefined_](tipos-de-dados-primitivos/undefined.md)
+
+## Referências
+
+- [JavaScript: The Good Parts](https://www.amazon.com.br/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [W3Schools](https://www.w3schools.com/jsref/default.asp)
