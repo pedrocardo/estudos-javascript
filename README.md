@@ -53,7 +53,7 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
   - [_String_](tipos-de-dados-primitivos/string.md)
   - [_Undefined_](tipos-de-dados-primitivos/undefined.md)
 
-## Considerações e referências
+## Referências
 
 As principais fontes de informações para elaboração desse repositório estão listadas a seguir.
 
