@@ -53,9 +53,9 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
   - [_String_](tipos-de-dados-primitivos/string.md)
   - [_Undefined_](tipos-de-dados-primitivos/undefined.md)
 
-## Referências
+## Considerações e referências
 
-Para criação desse repositório, foram utilizados as fontes de informações listadas a seguir.
+As principais fontes de informações para elaboração desse repositório estão listadas a seguir.
 
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
