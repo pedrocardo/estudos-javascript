@@ -1,6 +1,6 @@
 # JavaScript
 
-Esse repositório possui anotações sobre pontos da linguagem de programação JavaScript.
+Esse repositório possui anotações sobre a linguagem de programação JavaScript.
 
 Todos os arquivos estão no formato _markdown_.
 
@@ -55,7 +55,7 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
 
 ## Referências
 
-Para criação desse repositório, foram utilizados as fontes de informação listadas a seguir.
+Para criação desse repositório, foram utilizados as fontes de informações listadas a seguir.
 
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
