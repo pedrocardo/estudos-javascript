@@ -70,7 +70,3 @@ function funcao() {
   var variavelLocal = "essa variável só é visível nesse escopo";
 }
 ```
-
-```
-
-```
