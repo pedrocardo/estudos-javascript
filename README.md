@@ -1,8 +1,8 @@
-# JavaScript
+# Estudos sobre JavaScript
 
-Esse repositório possui anotações sobre a linguagem de programação JavaScript.
+Esse repositório é elaborado a partir de estudos sobre a linguagem de programação JavaScript.
 
-Todos os arquivos estão no formato _markdown_.
+Os conteúdos estão organizados em arquivos no formato _markdown_.
 
 ## Comentários
 
